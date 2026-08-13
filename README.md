@@ -26,17 +26,17 @@ The program needs four values:
 - y2
 
 ## Sample Output
-
+```markdown
 Enter x1: 2  
 Enter y1: 3  
 Enter x2: 7  
 Enter y2: 8  
-
+```
 The distance between the two points is: 7.07
 
 ## Author
-
+```markdown
 Name: Depacto, Hezron John P.
 
 Section: 8 - Molave
-
+```

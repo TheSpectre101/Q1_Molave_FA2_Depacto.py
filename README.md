@@ -37,4 +37,6 @@ The distance between the two points is: 7.07
 ## Author
 
 Name: Depacto, Hezron John P.
+
 Section: 8 - Molave
+
